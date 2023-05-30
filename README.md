@@ -62,7 +62,7 @@ GitHub has always been a platform of choice for these types of projects, and jus
 
 
 ## Venancio Rivas Concepción
-
+GitHub has become a fundamental platform for software development, promoting collaboration, version control, and project management efficiently. Its ability to host both public and private repositories has enabled developers and teams worldwide to work together effectively, driving innovation and speeding up the development process. 
 
 #References
 
