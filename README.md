@@ -67,7 +67,7 @@ ClickUp is a versatile project management and collaboration platform designed to
 
 # Conclusion
 ## Meléndez Burgos José Roberto
-
+The use of github has become a need in our field of software, we can manage our projects and work in teams to get a better performance, learn github nowdays is really important the manage of version with git and the repository of github allow us to get easier our jobs, also this tools and the use of click up help us to do a better schedule contro when we are working with teams or alone.
 
 ## Hernández Correa Omar Francisco
 GitHub has always been a platform of choice for these types of projects, and just for software engineering in general. It's quite the powerful tool since it excels in managing code repositories, facilitating collaboration among developers, and providing features like version control, code review, issue tracking, and documentation. Our primary deal with it, of course, is the fact that we can work in a team from a much easier way. That is why this tool is so handy, and now, combining it with ClickUp, which hold just as many features, but even broader than ever, we can end up creating something special.
