@@ -52,7 +52,7 @@ ClickUp is a versatile project management and collaboration platform designed to
 
 
 2.- Once is done that, we need to copy the SSH public key into our clipboard, this to save it for the next steps, the command that we are going to use is "clip < ~/.ssh/id_ed25519.pub", then, in our account of github, we need to create the SSH Keys, in order to do this, we need to go, settings/access/SSH and GPG Keys, then in new SSH Key, we fill all the things that ask us, and in the key field, we will paste the content of the file that was previously copied in our clipboard, then add, and with that is the connection with git and github.
-![1e2076b2-7335-44c2-99e8-e728071c7674](https://github.com/AldoVM11/SoftwareMaintenancePage/assets/105750734/038898f2-62e6-4021-9f33-6c44ad6c253b)
+![1e2076b2-7335-44c2-99e8-e728071c7674](https://github.com/AldoVM11/SoftwareMaintenancePage/assets/105750734/6c486e11-0855-4641-894a-aa13f399cd82)
 
 ### Upload of the files
 1.- Create a GitHub Repository: Sign in to GitHub and navigate to the main page. Click on the "New" button to create a new repository. Provide a repository name, description, and choose appropriate settings (public or private).
