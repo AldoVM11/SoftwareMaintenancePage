@@ -48,6 +48,8 @@ ClickUp is a versatile project management and collaboration platform designed to
 ## Step-by-step process of uploading your project to Github
 ### Creation of the SSHKeys
 1.- First we need to create our SSH Key to access to out account in github inside git, so the first thing that we are going to do is to, open the GitBash in the place where our files are, then type "ssh-keygen -t rsa -b 4096 -C "YOUR_EMAIL"" and then, press enter twice, and a new file will be created in the route "C:\Users\\"USERNAME"\\.ssh"
+!(![e4e4fda9-9af6-4d73-b05d-12c4eb1457b3](https://github.com/AldoVM11/SoftwareMaintenancePage/assets/105750734/eef69ab7-c4b8-4c9f-989c-cea8d8fe7d7f)
+)
 
 2.- Once is done that, we need to copy the SSH public key into our clipboard, this to save it for the next steps, the command that we are going to use is "clip < ~/.ssh/id_ed25519.pub", then, in our account of github, we need to create the SSH Keys, in order to do this, we need to go, settings/access/SSH and GPG Keys, then in new SSH Key, we fill all the things that ask us, and in the key field, we will paste the content of the file that was previously copied in our clipboard, then add, and with that is the connection with git and github.
 
