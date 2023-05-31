@@ -43,6 +43,9 @@ ClickUp is a versatile project management and collaboration platform designed to
 
 # Methodology
 ## Method for creating a management environment for the tool you will be using
+1.- Sign up for a ClickUp account and create your workspace.
+2.- Define the structure: Create spaces, projects, and folders to organize your work. Consider aligning the structure with your team's workflow or project hierarchy.
+3.- Configure settings: Customize your workspace settings, such as notifications, integrations, and access permissions, to suit your team's needs.
 
 
 ## Step-by-step process of uploading your project to Github
